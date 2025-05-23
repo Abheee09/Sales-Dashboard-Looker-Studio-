@@ -19,10 +19,10 @@ The project simulates a real-world eCommerce sales scenario where a business wan
 ## 📈 Dashboard Highlights
 
 ### 🌟 Key Metrics Tracked:
-- **Total Sales Revenue**: $1,678  
-- **Average Item Price**: $28.93  
-- **Total Items Sold**: 58  
-- **Unique Buyers**: 27  
+- **Total Sales Revenue**: $2,068  
+- **Average Item Price**: $29.97  
+- **Total Items Sold**: 69  
+- **Unique Buyers**: 29  
 
 ### 📟 Coupon Performance:
 | Promo Code              | Revenue ($) | Discount ($) | Buyers |
