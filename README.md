@@ -33,9 +33,10 @@ Sales distributed across multiple countries, with significant contributions from
 - Peak average sales occurred in **October and November 2021**
 - Bonus trend identified during **November**, likely tied to Cyber campaigns
 
----
-
 ## ⚖️ Tools Used
 
 - **Looker Studio** (Google Data Studio): Dashboard and visualization
 - **Excel / Sheets**: Initial data cleaning
+
+## 📈 Dashboard Preview
+- https://lookerstudio.google.com/reporting/ba300262-1c2f-4b41-8272-2f89b9321a0b
