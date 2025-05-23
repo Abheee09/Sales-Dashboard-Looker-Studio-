@@ -1,6 +1,20 @@
 # 🛍️ Sales Performance Dashboard – Looker Studio
 
-This project presents a comprehensive **Sales Dashboard built using Looker Studio**, analyzing sales data from **August to December 2021**. The goal was to derive actionable insights across products, customers, geographies, and promotions to help stakeholders make data-driven decisions.
+## 📈 Project Overview
+
+The Sales Performance Dashboard is a data visualization project built using Looker Studio to analyze transactional sales data. The aim was to convert raw sales data into actionable business insights that can inform strategic decisions across product performance, customer behavior, promotional effectiveness, and regional trends.
+
+The project simulates a real-world eCommerce sales scenario where a business wants to track performance over time, assess campaign ROI, and identify growth opportunities based on historical sales data.
+
+## 📈 Objective
+
+- **Visualize Key Sales Metrics: Track total revenue, item price averages, item counts, and buyer engagement over time.**
+- **Analyze Campaign Impact: Evaluate the effectiveness of coupon codes and discount strategies on sales performance.**
+- **Identify Top Products: Determine which SKUs are contributing the most to revenue and volume.**
+- **Understand Customer Behavior: Analyze buyer distribution and frequency to identify repeat buyers and high-value customers.**
+- **Geographical Insights: Discover which cities, states, or countries drive the most revenue.**
+- **Time-Based Analysis: Uncover monthly trends, peaks, and anomalies in sales.**
+- **Portfolio Demonstration: Showcase data storytelling and BI skills using Looker Studio as a dashboarding tool.**
 
 ## 📈 Dashboard Highlights
 
